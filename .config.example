@@ -1,0 +1,2 @@
+REMOTE="root@hostname.com:/home/user/websites/website"
+LOCAL="./build/"
