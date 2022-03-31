@@ -5,6 +5,11 @@ import {Header} from "./components/header";
 
 
 class App extends Component {
+	componentDidMount()
+	{
+		document.title += " - Home"
+	}
+
 	render ()
 	{
 		return (
